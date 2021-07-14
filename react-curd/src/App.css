@@ -1,0 +1,32 @@
+.body_bg {
+  background: url('./assets/images/4853433e.jpg') no-repeat fixed center / cover;
+  min-height: 100vh;
+}
+
+.input-group .btn {
+  min-height: 55px;
+  border-radius: 15px;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.form-control {
+  min-height: 55px;
+  border: 1px solid #f1f1f1;
+  background-color: #f2f2f2;
+  border-radius: 15px;
+}
+.list {
+  text-align: left;
+  max-width: 750px;
+  margin: auto;
+}
+
+.submit-form {
+  max-width: 300px;
+  margin: auto;
+}
+
+.edit-form {
+  max-width: 300px;
+  margin: auto;
+}
